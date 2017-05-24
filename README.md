@@ -14,6 +14,8 @@ Prepared for any company that search for a real professional template in magnoli
 - Creates components for business layer: highcharts, fullcalendario and datatables
 - Will continue development for sure!
 
+![Screenshot](./readme-ExampleData.jpg)
+
 ## Usage
 
 - go to backoffice-magnolia-webapp/src/main/filters/local.properties and set your repository data configuration
