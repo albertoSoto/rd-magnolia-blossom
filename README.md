@@ -1,4 +1,9 @@
+
+
 # rd-magnolia-blossom : Rocking your business
+## Sorry, this project has been moved to a private repository. Be in touch with me if you need any help or support with this techniques.
+
+You can see details for the demo at [Open expo presentation](http://learning.albertosoto.es/rd2017)
 
 Full project with maven integration, profile for developing, Blossom module, Light module configuration and... Spring MVC with Rest support out of the box
 Prepared for any company that search for a real professional template in magnolia CMS.
